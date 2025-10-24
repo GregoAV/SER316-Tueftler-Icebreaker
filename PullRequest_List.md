@@ -21,3 +21,13 @@
 # | Target Repository | Pull Request Link | Sentence Summary |
 
 # | https://github.com/juliedelaro/ser316-brezn-storytime| https://github.com/juliedelaro/ser316-brezn-storytime/pull/5 | Added sentence 5 using words gaebaeck and schloss. |
+
+# 
+
+# \*\*Team Member:\*\* Nathan Jordan (NathandJordan)
+
+# 
+
+# | Target Repository | Pull Request Link | Sentence Summary |
+
+# | https://github.com/fanayaal/WeissTeamStory | https://github.com/fanayaal/WeissTeamStory/pull/4 | Added sentence using Doener. |
