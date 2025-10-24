@@ -22,4 +22,9 @@
 
 | Target Repository | Pull Request Link | Sentence Summary |
 |---|---|---|
+
+**Team Member:** Jordan Chavez
+
+| Target Repository | Pull Request Link | Sentence Summary |
+|https://github.com/juliedelaro/ser316-brezn-storytime.git | https://github.com/jchave64/ser316-brezn-storytime/pull/new/jchave64_branch | Added a sentance with two german words|
 | https://github.com/juliedelaro/ser316-brezn-storytime | https://github.com/juliedelaro/ser316-brezn-storytime/pull/14 | Added final sentence for some humor
